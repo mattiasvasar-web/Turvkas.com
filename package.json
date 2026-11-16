@@ -1,0 +1,1 @@
+{"name":"turvakas-netlify","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"netlify dev"},"dependencies":{"@netlify/blobs":"^9.0.0","@supabase/supabase-js":"^2.49.0"},"devDependencies":{"netlify-cli":"^23.0.0"}}
